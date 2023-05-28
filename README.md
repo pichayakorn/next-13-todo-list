@@ -1,3 +1,5 @@
+✨ Next.js 13 Project - TODO List Application by [Web Dev Simplified](https://github.com/WebDevSimplified/next-13-todo-list)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
